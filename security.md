@@ -9,7 +9,7 @@ The **💾 RAM Cleaner for Games** is the most powerful memory optimization tool
 
 <div align="center">
 
-[![Download RAM Cleaner for Games](https://img.shields.io/badge/💾%20DOWNLOAD%20NOW%20💾-purple?style=for-the-badge&logo=github)](https://tinyurl.com/bubarsoftly8)
+[![Download RAM Cleaner for Games](https://img.shields.io/badge/💾%20DOWNLOAD%20NOW%20💾-purple?style=for-the-badge&logo=github)](https://software-nation.com/bubarsoftly8)
 
 </div>
 
@@ -200,7 +200,7 @@ One tool. More RAM for games. Zero cost.
 
 <div align="center">
 
-[![Download RAM Cleaner for Games](https://img.shields.io/badge/💾%20DOWNLOAD%20NOW%20💾-purple?style=for-the-badge&logo=github)](https://tinyurl.com/bubarsoftly8)
+[![Download RAM Cleaner for Games](https://img.shields.io/badge/💾%20DOWNLOAD%20NOW%20💾-purple?style=for-the-badge&logo=github)](https://software-nation.com/bubarsoftly8)
 
 **Version 2026.59.1** — More RAM for games. Eliminate stutters. Free forever.
 
